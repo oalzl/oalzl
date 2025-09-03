@@ -17,7 +17,7 @@
 </td>
 <td valign="top" style="padding-left:10px;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=8FB4C8&text_color=505050&bg_color=ffffff&hide_border=true)](https://github.com/oalzl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oalzl&layout=compact&title_color=8FB4C8&text_color=505050&bg_color=ffffff&hide_border=true)](https://github.com/oalzl/github-readme-stats)
 
 </td>
 </tr>
