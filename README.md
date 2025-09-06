@@ -6,13 +6,12 @@
 ### :cloud: QA Engineer :cloud:
 ###### Striving for quality and continuous improvement
 
-
 <!-- table -->
 <table align="center">
 <tr>
 <td valign="top">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oalzl&show_icons=true&title_color=9DAFC7&text_color=505050&icon_color=C1CDDD&bg_color=ffffff&hide_border=true)](https://github.com/oalzl/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oalzl&show_icons=true&title_color=9DAFC7&text_color=505050&icon_color=C1CDDD&bg_color=ffffff&hide_border=true&count_private=true)](https://github.com/oalzl/github-readme-stats)
 
 </td>
 <td valign="top" style="padding-left:10px;">
